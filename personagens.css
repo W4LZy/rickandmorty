@@ -1,0 +1,139 @@
+*{margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+  #rick{
+    height: 110px;
+       width: 200px;
+   }
+   /*tag rick para centralizar e regular tamanho da logo*/
+   
+   nav{text-align: center;
+       background-color: rgb(129, 231, 137);
+   }
+   
+   
+   
+       header{text-align: center;
+      width: 100%;  background-color: rgb(129, 231, 137);
+   height: 150px;
+       }
+       #inicial{
+         margin: 20px;
+         background-color: rgb(123, 243, 207);
+         padding: 10px;
+         border-radius: 20px;
+       }
+       #personagem{
+        margin: 20px;
+        background-color: rgb(123, 243, 207);
+        padding: 10px;
+        border-radius: 20px;
+        
+    }
+h3{
+font-family: Georgia, 'Times New Roman', Times, serif ;
+
+
+}
+
+
+       #temp{margin: 20px;
+        background-color: rgb(123, 243, 207);
+        padding: 10px;
+        border-radius: 20px;}
+        .card{
+            width: 350px;
+            background-color:rgb(77, 233, 147);
+            display: inline-block;
+            border-radius: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+            gap: 20px;
+            box-shadow: 4px 4px 15px 5px rgba(0,0,0,0.79);
+            transform: translateY(20px);
+
+           }
+           img{
+            height: 300px;
+            border-radius: 70px;
+            padding-top: 20px;
+            width: 250px;
+        }
+        .persona{
+            margin: 30px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            
+        }
+        body{background-color: rgb(60, 141, 71);}
+        .caracteristicas{
+            display: flex;
+            justify-content: space-around;
+            flex-direction: row;
+            margin: 20px;
+            gap: 10px;
+        }
+        .morty{font-size: 20px;
+            background-color: rgb(60, 67, 124);
+            width: 100px;
+            text-align: center;
+            border-radius: 10px;}
+
+
+        .rick{
+            font-size: 20px;
+            background-color: cadetblue;
+            width: 100px;
+            text-align: center;
+            border-radius: 10px;
+
+        }
+        .summer{font-size: 20px;
+            background-color: rgb(224, 95, 203);
+            width: 100px;
+            text-align: center;
+            border-radius: 10px;
+        }
+        .rickprime{font-size: 20px;
+            background-color: rgb(28, 16, 136);
+            width: 100px;
+            text-align: center;
+            border-radius: 10px;}
+        .evilmorty{font-size: 20px;
+            background-color: rgb(226, 49, 49);
+            width: 100px;
+            text-align: center;
+            border-radius: 10px;}
+        .beth{font-size: 20px;
+            background-color: rgb(251, 255, 3);
+            width: 100px;
+            text-align: center;
+            border-radius: 10px;}
+        .bethespacial{
+            font-size: 20px;
+            background-color: rgb(219, 201, 34);
+            width: 100px;
+            text-align: center;
+            border-radius: 10px;
+        }
+        .jerry{font-size: 20px;
+            background-color: rgb(80, 192, 70);
+            width: 100px;
+            text-align: center;
+            border-radius: 10px;}
+        .jerryprime{font-size: 20px;
+            background-color: rgb(52, 114, 27);
+            width: 100px;
+            text-align: center;
+            border-radius: 10px;}
+            footer{height: 135px;
+                background-color: #083d07;
+                text-align: center;
+                padding-top: 60px;
+            }
+        
+        
